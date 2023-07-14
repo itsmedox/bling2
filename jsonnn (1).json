@@ -21,15 +21,15 @@
   
     
 
-    "Image_cpaLink" : "",
+    "Image_cpaLink" : "https://iili.io/HLKLsmN.png",
     "LinkCpa": "",
     
 
-    "ImageUrl_banner": "",
+    "ImageUrl_banner": "https://iili.io/HLKLsmN.png",
     "LinkCpa_banner": "",
-    "ImageUrl_banner1": "",
+    "ImageUrl_banner1": "https://iili.io/HLKLsmN.png",
     "LinkCpa_banner1": "",
-    "ImageUrl_banner2": "",
+    "ImageUrl_banner2": "https://iili.io/HLKLsmN.png",
     "LinkCpa_banner2": "",
 
     "Image_exit": "",
@@ -44,7 +44,7 @@
     "Text_tips3": "Performance Tips ",
     "Text_tips4": "Task  and Productivity",
     "Text_tips5": " Problem Solving",
-    "Text_tips6": "bling2 Education and Resources ",
+    "Text_tips6": " Education and Resources ",
     "Text_tips7": "Security and Privacy Tools",
     "Text_tips8": " Community and Discussion",
 
@@ -52,9 +52,9 @@
     "Text_title1": "the accessibility features and special capabilities of your Android device with dedicated section",
     "Text_title2": "ask questions, and seek support through ",
     "Text_title3": "Stay up-to-date with the latest Android updates and features using TOTO APP",
-    "Text_title4": " has a huge history ",
+    "Text_title4": " our app has a huge history ",
     "Text_title5": " prioritizes the security and privacy of its users",
-    "Text_title6": "Stay informed with toto ",
+    "Text_title6": "Stay informed with our app ",
     "Text_title7": " offers a robust portfolio management  ",
     "Text_title8": " in history and place",
 
@@ -65,7 +65,7 @@
     "Text_buttonplus" : "+ 18",
 
 
-    "CpaAds" : "false",
+    "CpaAds" : "True",
 
     "Click_inter": "0"
 
